@@ -13,9 +13,8 @@ const Header = () => {
         <Row>
           <Col>
             <Link to="/" className="headertext">
-              <h1>sean fisher</h1>
-              {/* <hr className="hr" /> */}
-              <h2>voice talent</h2>
+              <h1>sean fisher.</h1>
+              <h2>voice talent.</h2>
             </Link>
           </Col>
           <Col>
@@ -48,7 +47,7 @@ const Header = () => {
         <Row>
           <Col>
             <Link to="/about/" className="link">
-              About Me
+              About
             </Link>
           </Col>
           <Col>
