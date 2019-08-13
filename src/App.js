@@ -6,6 +6,7 @@ import Demos from './components/Demos';
 import Contact from './components/Contact';
 import Home from './components/Home';
 import Header from './components/Header';
+import Error from './components/Error';
 
 class App extends Component {
   render() {
@@ -16,7 +17,8 @@ class App extends Component {
           <Home path="/" />
           <About path="/about/" />
           <Demos path="/demos/" />
-          <Contact path="contact" />
+          <Contact path="/contact/" />
+          <Error path="*" />
         </Router>
       </div>
     );

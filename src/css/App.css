@@ -17,7 +17,6 @@
   font-size: 34px;
   font-weight: bold;
   letter-spacing: -1px;
-  /* line-height: 1;  */
   text-align: left;
   padding-left: 30px;
 }
@@ -33,7 +32,6 @@
   font-size: 34px;
   font-weight: bold;
   letter-spacing: -1px;
-  /* line-height: 1; */
   text-align: center;
 }
 
@@ -180,7 +178,7 @@
 }
 
 .smlinks {
-  padding-top: 50px;
+  padding-top: 100px;
 }
 
 .smlink {

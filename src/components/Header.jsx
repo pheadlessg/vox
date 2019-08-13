@@ -23,22 +23,19 @@ const Header = () => {
                 className="smlink"
                 href="https://www.linkedin.com/in/seankristianfisher/"
               >
-                <img src={linkedin} alt="linkedin" />
+                <img src={linkedin} alt="LinkedIn" />
               </a>
               <a
                 className="smlink"
                 href="https://soundcloud.com/sean-fisher-382995445"
               >
-                <img src={soundcloud} alt="soundcloud" />
+                <img src={soundcloud} alt="SoundCloud" />
               </a>
-              <a
-                className="smlink"
-                href="https://www.instagram.com/pheadlessg/"
-              >
-                <img src={instagram} alt="instagram" />
+              <a className="smlink" href="https://www.instagram.com/sfvox/">
+                <img src={instagram} alt="Instagram" />
               </a>
-              <a className="smlink" href="https://twitter.com/pheadlessg">
-                <img src={twitter} alt="twitter" />
+              <a className="smlink" href="https://twitter.com/seankfisher">
+                <img src={twitter} alt="Twitter" />
               </a>
             </div>
           </Col>
