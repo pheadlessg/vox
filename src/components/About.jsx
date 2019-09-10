@@ -10,8 +10,9 @@ const About = () => {
         <p>
           I grew up in the North of England with a very English father and a
           very American mother. I got the idea that something about my voice was
-          unique when in elementary school my teachers kept asking me to repeat
-          the word 'vertex' for them.
+          special when in elementary school my teachers kept asking me to repeat
+          the word 'vertex' for them. Picking up bits of my accent from both of
+          them helped me develop my voice into something unique.
         </p>
         <p>
           Over time, my voice settled into rich and deep tones with a unique
@@ -28,8 +29,8 @@ const About = () => {
         </p>
         <p>Because why not?</p>
         <p>
-          I specialise in deep, crisp and autoritative voice work for commercial
-          and narration work with a unique mid-Atlantic accent.
+          I specialise in deep, crisp and autoritative voice for commercial and
+          narration work with a unique mid-Atlantic accent.
         </p>
         <p>
           I hope you'll listen to some of my demos and if you like what you hear
