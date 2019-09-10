@@ -186,5 +186,10 @@
 }
 
 .picture {
-  width: 200px;
+  margin-top: 20px;
+  width: 30vw;
+}
+
+.aboutTextContainer {
+  padding: 10px;
 }
