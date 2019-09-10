@@ -27,15 +27,17 @@ const About = () => {
           round... And that's you, mate.") I didn't make a start on my career in
           voice acting until I moved to California.
         </p>
-        <p>Because why not?</p>
+        <p>Because why not? </p>
         <p>
           I specialise in deep, crisp and autoritative voice for commercial and
-          narration work with a unique mid-Atlantic accent.
+          narration work with a unique mid-Atlantic accent. I love taking
+          direction and working with clients to find the best way to make their
+          work speak to their audience.
         </p>
         <p>
-          I hope you'll listen to some of my demos and if you like what you hear
-          and want to get in touch, please don't hesitate to contact me by phone
-          or email.
+          I hope you'll listen to my demos and if you like what you hear and
+          want to get in touch, please don't hesitate to contact me by phone or
+          email.
         </p>
       </div>
     </div>
