@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from '@reach/router';
 import { Container, Row, Col } from 'reactstrap';
-import instagram from '../css/img/instagram.jpg';
-import linkedin from '../css/img/linkedin.jpg';
-import twitter from '../css/img/twitter.jpg';
-import soundcloud from '../css/img/soundcloud.jpg';
+import instagram from '../img/instagram.jpg';
+import linkedin from '../img/linkedin.jpg';
+import twitter from '../img/twitter.jpg';
+import soundcloud from '../img/soundcloud.jpg';
 
 const Header = () => {
   return (
