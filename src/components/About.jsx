@@ -12,7 +12,7 @@ const About = () => {
           very American mother. I got the idea that something about my voice was
           special when in elementary school my teachers kept asking me to repeat
           the word 'vertex' for them. Picking up bits of my accent from both of
-          them helped me develop my voice into something unique.
+          my parents helped me develop my voice into something unique.
         </p>
         <p>
           Over time, my voice settled into rich and deep tones with a unique
