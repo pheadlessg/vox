@@ -6,8 +6,8 @@ const About = () => {
   return (
     <div>
       <div className="pageheader">About Me</div>
-      <img className="picture" src={me} alt="Me" />
       <img className="picture" src={meBiz} alt="Me in business attire" />
+      <img className="picture" src={me} alt="Me" />
       <div className="aboutTextContainer">
         <p>
           Sean has been living and working in Southern California as a voice,
