@@ -10,8 +10,8 @@ const About = () => {
       <img className="picture" src={meBiz} alt="Me in business attire" />
       <div className="aboutTextContainer">
         <p>
-          Originally from Manchester, UK - Sean has been living and working in
-          California as a voice, on-camera and theatre actor since 2019.
+          Sean has been living and working in Southern California as a voice,
+          on-camera and theatre actor since 2019.
         </p>
         <p>
           His voice has been described as crisp, clear and authentic - with a
