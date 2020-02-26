@@ -5,6 +5,7 @@ import instagram from '../img/instagram.jpg';
 import linkedin from '../img/linkedin.jpg';
 import twitter from '../img/twitter.jpg';
 import soundcloud from '../img/soundcloud.jpg';
+import resume from '../docs/Sean_Fisher_Resume.pdf';
 
 const Header = () => {
   return (
@@ -51,6 +52,11 @@ const Header = () => {
             <Link to="/demos/" className="link">
               Demos
             </Link>
+          </Col>
+          <Col>
+            <a className="link" href={resume}>
+              Download Resume
+            </a>
           </Col>
           <Col>
             <Link to="/contact/" className="link">
