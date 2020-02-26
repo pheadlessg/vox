@@ -3,7 +3,7 @@ import React from 'react';
 const Demos = () => {
   return (
     <div>
-      <p className="pageheader">Here are demos</p>
+      <p className="pageheader">Commercial Demos</p>
       <iframe
         className="soundcloud"
         title="soundcloud"
