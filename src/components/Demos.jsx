@@ -7,7 +7,7 @@ const Demos = () => {
       <iframe
         className="soundcloud"
         title="soundcloud"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/662700485%3Fsecret_token%3Ds-bbI0j&color=%23ff5500&auto_play=false&hide_related=false&show_user=true&show_reposts=false&show_teaser=true"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/766979650&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       />
     </div>
   );
