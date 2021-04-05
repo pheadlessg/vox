@@ -1,6 +1,6 @@
 import React from 'react';
 import me from '../img/profile_pic.jpg';
-import meBiz from '../img/profile_picbiz.jpg';
+import meBiz from '../img/profile_picbiz.jpeg';
 
 const About = () => {
   return (

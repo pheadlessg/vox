@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from '@reach/router';
 import { Container, Row, Col } from 'reactstrap';
 import instagram from '../img/instagram.jpg';
+import actorsaccess from '../img/actorsaccess.png';
 import linkedin from '../img/linkedin.jpg';
 import twitter from '../img/twitter.jpg';
 import soundcloud from '../img/soundcloud.jpg';
@@ -15,7 +16,7 @@ const Header = () => {
           <Col>
             <Link to="/" className="headertext">
               <h1>sean fisher.</h1>
-              <h2>voice talent.</h2>
+              <h2>actor and voice talent.</h2>
             </Link>
           </Col>
           <Col>
@@ -25,6 +26,12 @@ const Header = () => {
                 href="https://www.linkedin.com/in/seankristianfisher/"
               >
                 <img src={linkedin} alt="LinkedIn" />
+              </a>
+              <a
+                className="smlink"
+                href="https://resumes.actorsaccess.com/seanfisher"
+              >
+                <img src={actorsaccess} alt="ActorsAccess" />
               </a>
               <a
                 className="smlink"
