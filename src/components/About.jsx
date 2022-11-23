@@ -22,8 +22,8 @@ const About = () => {
         </p>
         <p>
           Outside of work Sean can usually either be found going on adventures
-          with his dogs Dusty and Delilah or baking for his wife Ashley and
-          their friends and family.
+          with his awesome dogs Dusty and Delilah or baking for his wife Ashley
+          and their friends and family.
         </p>
       </div>
     </div>
