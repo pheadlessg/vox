@@ -10,8 +10,8 @@ const About = () => {
       <img className="picture" src={me} alt="Me" />
       <div className="aboutTextContainer">
         <p>
-          Sean has been living and working in Southern California as a voice,
-          on-camera and theatre actor since 2019.
+          Sean has been living and working in Los Angeles, California as a
+          voice, on-camera and theatre actor since 2019.
         </p>
         <p>
           His voice has been described as crisp, clear and authentic - with a
