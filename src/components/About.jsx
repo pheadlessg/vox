@@ -16,9 +16,7 @@ const About = () => {
         <p>
           His voice has been described as crisp, clear and authentic - with a
           classic style and deep authoritative tones that make him perfect for
-          commercial and narration. He is excellent at taking direction and
-          tries to make every project as much fun for the people he works for as
-          he has working on it.
+          commercial and narration.
         </p>
         <p>
           Outside of work Sean can usually either be found going on adventures
